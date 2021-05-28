@@ -1,5 +1,5 @@
 # FunGraphs
-2017 Mon premier projet en Java de première année de Génie Logiciel😁  
+Mon premier projet en Java en 2017 lors de ma première année de Génie Logiciel😁  
 
 ![image](https://user-images.githubusercontent.com/40875400/120034063-03b03a00-bfec-11eb-9b83-0ddd1864df92.png)
 
