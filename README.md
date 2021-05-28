@@ -1,5 +1,8 @@
 # FunGraphs
-2017 Mon premier projet en Java de première année de Génie Logiciel😁
+2017 Mon premier projet en Java de première année de Génie Logiciel😁  
+
+![image](https://user-images.githubusercontent.com/40875400/120034063-03b03a00-bfec-11eb-9b83-0ddd1864df92.png)
+
 # Presentation
 Fungraphs est mon premier projet Java en première année !  
 C'est au cour de sa réalisation que je me suis le plus familiarisé avec le language Java☕  
