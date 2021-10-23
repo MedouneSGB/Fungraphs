@@ -4,11 +4,11 @@
 
 # Presentation
 Fungraphs est mon premier projet Java en première année !  
-C'est au cour de sa réalisation que je me suis le plus familiarisé avec le language Java☕  
+C'est au cours de sa réalisation que je me suis le plus familiarisé avec le language Java☕  
 
 # Ma Description en 2017 ! 😁
 Récapitulatif du Système :
-FunGraphs est un logiciel très convivial vous permettant de vous divertir au d’animer votre ordinateur. Ce logiciel comprend plusieurs fonction à découvrir qui le différencie de tout autre logiciel du même genre prenez donc le temps de le décoder tout en gardant la joie !
+FunGraphs est un logiciel très convivial vous permettant de vous divertir ou d’animer votre ordinateur. Ce logiciel comprend plusieurs fonctions à découvrir qui le différencient de tout autre logiciel du même genre. Prenez donc le temps de le décoder tout en gardant la joie !
 1. Page Preloading🍃  
 
 ![image](https://user-images.githubusercontent.com/40875400/120029699-f8f2a680-bfe5-11eb-9b13-4525d54d3cf4.png)
